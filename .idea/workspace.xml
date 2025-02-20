@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5474d009-9428-4fcd-aa95-18129bb1bb6c" name="Changes" comment="cucumber feature">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ghofur/stepdef/CucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="5474d009-9428-4fcd-aa95-18129bb1bb6c" name="Changes" comment="Reports telah berhasil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ghofur/stepdef/LoginStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ghofur/stepdef/LoginStepDef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,33 +58,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: login.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login using valid email and password.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build Pr19_jayjay21.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CucumberTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CucumberTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CumcumberTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CumcumberTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Pr19_jayjay21 [cucumber].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Pr19_jayjay21 [dependencies].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Pr19_jayjay21 [test].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.WebRunner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kuliah/Cucumber/Pr19_jayjay21/src/test/java/ghofur/stepdef&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/kuliah/Cucumber/Pr19_jayjay21/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: login.executor": "Run",
+    "Cucumber Java.Scenario: Login using valid email and password.executor": "Run",
+    "Gradle.Build Pr19_jayjay21.executor": "Run",
+    "Gradle.CalculatorTest.testAdd.executor": "Run",
+    "Gradle.CucumberTest (1).executor": "Run",
+    "Gradle.CucumberTest.executor": "Run",
+    "Gradle.CumcumberTest (1).executor": "Run",
+    "Gradle.CumcumberTest.executor": "Run",
+    "Gradle.Pr19_jayjay21 [cucumber].executor": "Run",
+    "Gradle.Pr19_jayjay21 [dependencies].executor": "Run",
+    "Gradle.Pr19_jayjay21 [test].executor": "Run",
+    "Gradle.WebRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kuliah/Cucumber/Pr19_jayjay21",
+    "onboarding.tips.debug.path": "D:/kuliah/Cucumber/Pr19_jayjay21/src/main/java/org/example/Main.java"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: login">
+  <component name="RunManager" selected="Gradle.CucumberTest (1)">
     <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/login.feature" />
@@ -201,9 +203,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CucumberTest (1)" />
         <item itemvalue="Cucumber Java.Feature: login" />
         <item itemvalue="Cucumber Java.Scenario: Login using valid email and password" />
-        <item itemvalue="Gradle.CucumberTest (1)" />
         <item itemvalue="Gradle.Pr19_jayjay21 [cucumber]" />
         <item itemvalue="Gradle.CucumberTest" />
       </list>
@@ -226,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739930647010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reports telah berhasil">
+      <option name="closed" value="true" />
+      <created>1739942832579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739942832579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +252,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cucumber feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="cucumber feature" />
+    <MESSAGE value="Reports telah berhasil" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reports telah berhasil" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -251,11 +262,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/build.gradle</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
